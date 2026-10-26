@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=go-multitenants-wails3
+Comment=A go-multitenants-wails3 application
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/local/bin/go-multitenants-wails3 %u
+Terminal=false
+Type=Application
+Icon=go-multitenants-wails3
+Categories=Utility;
+StartupWMClass=go-multitenants-wails3
+
+ 
